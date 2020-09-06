@@ -30,4 +30,4 @@
 [twitch]: https://www.twitch.tv/chrisellisdev
 [linkedin]: https://www.linkedin.com/in/chris-ellis-dev/
 [npm]: https://www.npmjs.com/~chrisellisdev
-[email]: mailto:me@chrisellis.dev?subject=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20I'd%20like%20to%20work%20with%20you
+[email]: mailto:me@chrisellis.dev?subject=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20Chris%2C%20I'd%20like%20to%20work%20with%20you
