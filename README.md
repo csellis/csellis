@@ -1,14 +1,12 @@
 [![bg][banner]][website]
 
-### professional software developer
+### professional software developer & freelancer
+#### [hire][calendly] me
 
 💼 I’m currently working on [Twilio Video Integration][twilio] for a **client**  
 🌱 building [Shopping App in RedwoodJS][grocery]  
 📺 streaming [RedwoodJS Series][redwdoodseries]  
 💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]  
-
-🙋‍♂️ want to [chat][calendly]?   
-
 
 
 🏡 [website][website] **|** 
@@ -16,7 +14,8 @@
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📦 [npm][npm] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+🙋‍♂️ [calendly][calendly]  
 
 [grocery]: https://github.com/csellis/grocery
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
