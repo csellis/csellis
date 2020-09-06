@@ -2,10 +2,10 @@
 
 ### professional software developer
 
-💼 I’m currently working on **Client Work**: [Twilio Video Integration][twilio]
-🌱 building [Shopping App in RedwoodJS][grocery]
-📺 streaming [RedwoodJS Series][redwoodseries]
-💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]
+💼 I’m currently working on **Client Work**: [Twilio Video Integration][twilio]  
+🌱 building [Shopping App in RedwoodJS][grocery]  
+📺 streaming [RedwoodJS Series][redwdoodseries]  
+💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]  
 
 
 
