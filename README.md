@@ -2,10 +2,12 @@
 
 ### professional software developer
 
-💼 I’m currently working on **Client Work**: [Twilio Video Integration][twilio]  
+💼 I’m currently working on [Twilio Video Integration][twilio] for a **client**  
 🌱 building [Shopping App in RedwoodJS][grocery]  
 📺 streaming [RedwoodJS Series][redwdoodseries]  
 💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]  
+
+🙋‍♂️ want to [chat][calendly]?   
 
 
 
@@ -20,6 +22,7 @@
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
 [twilio]: https://www.twilio.com/video
 [redwood]: https://redwoodjs.com/
+[calendly]: https://calendly.com/cs-ellis
 
 [banner]: https://github.com/csellis/csellis/blob/master/bg.png
 [react]: http://reactjs.org
