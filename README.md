@@ -12,11 +12,7 @@
 Shoutout to [Brad Garropy][brad] for the inspiration!  
 
 
-<<<<<<< HEAD
 [brad]: https://github.com/bradgarropy
-=======
-[brad]: [https:](https://github.com/bradgarropy)
->>>>>>> 58c9695fb88d67de689e5a0dce149032c2cad9b8
 [grocery]: https://github.com/csellis/grocery
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
 [twilio]: https://www.twilio.com/video
