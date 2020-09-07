@@ -9,7 +9,10 @@
 
 #### 🙋‍♂️ [Work with me?][email]  
 
+Shoutout to [Brad Garropy][brad] for the inspiration!  
 
+
+[brad]: [https:](https://github.com/bradgarropy)
 [grocery]: https://github.com/csellis/grocery
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
 [twilio]: https://www.twilio.com/video
