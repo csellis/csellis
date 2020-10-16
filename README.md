@@ -3,13 +3,11 @@
 ### professional software developer & freelancer
 
 💼 working on [Twilio Video Integration][twilio] for a **client**  
-🌱 building [Shopping App in RedwoodJS][grocery]  
-📺 streaming [RedwoodJS Series][redwdoodseries]  
+🌱 building [Text-to-Speech RSS Reader][blaudio]  
+📺 streaming [Blaudio Series][blaudiovids]  
 💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]  
 
 #### 🙋‍♂️ [Work with me?][email]  
-
-Shoutout to [Brad Garropy][brad] for the inspiration!  
 
 
 [brad]: https://github.com/bradgarropy
@@ -18,6 +16,8 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 [twilio]: https://www.twilio.com/video
 [redwood]: https://redwoodjs.com/
 [calendly]: https://calendly.com/cs-ellis
+[blaudio]: https://github.com/csellis/blaudio
+[blaudiovids]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf50_gDmsDtdMD7zfkm6S_EC
 
 [banner]: https://github.com/csellis/csellis/blob/master/bg.png
 [react]: http://reactjs.org
