@@ -5,7 +5,7 @@
 💼 working on [Twilio Video Integration][twilio] for a **client**  
 🌱 building [Text-to-Speech RSS Reader][blaudio]  
 📺 streaming [Blaudio Series][blaudiovids]  
-💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind]  
+💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind], [nextjs][nextjs]
 
 #### 🙋‍♂️ [Work with me?][email]  
 
@@ -15,6 +15,7 @@
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
 [twilio]: https://www.twilio.com/video
 [redwood]: https://redwoodjs.com/
+[nextjs]: https://nextjs.org/
 [calendly]: https://calendly.com/cs-ellis
 [blaudio]: https://github.com/csellis/blaudio
 [blaudiovids]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf50_gDmsDtdMD7zfkm6S_EC
