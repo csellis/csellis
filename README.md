@@ -1,10 +1,9 @@
 [![bg][banner]][website]
 
-### professional software developer & freelancer
+### professional software developer & contractor
 
-💼 working on [Twilio Video Integration][twilio] for a **client**  
-🌱 building [Text-to-Speech RSS Reader][blaudio]  
-📺 streaming [Blaudio Series][blaudiovids]  
+✍️ writing @ [chrisellis.dev][website]  
+🌱 building & growing [Meet on V][meetonv]  
 💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind], [nextjs][nextjs]
 
 #### 🙋‍♂️ [Work with me?][email]  
@@ -14,13 +13,16 @@
 [grocery]: https://github.com/csellis/grocery
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
 [twilio]: https://www.twilio.com/video
+[meetonv]: https://www.meetonv.com
 [redwood]: https://redwoodjs.com/
 [nextjs]: https://nextjs.org/
 [calendly]: https://calendly.com/cs-ellis
 [blaudio]: https://github.com/csellis/blaudio
 [blaudiovids]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf50_gDmsDtdMD7zfkm6S_EC
 
-[banner]: https://github.com/csellis/csellis/blob/master/bg.png
+<!-- [banner]: https://github.com/csellis/csellis/blob/master/bg.png
+ -->
+ [banner]: https://github.com/csellis/css-in-readme-like-wat/blob/master/header.svg
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
 [styled]: https://styled-components.com
