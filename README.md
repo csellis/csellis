@@ -4,7 +4,7 @@
 
 ✍️ writing @ [chrisellis.dev][website]  
 🌱 building & growing [Meet on V][meetonv]  
-💜 loving [react][react], [gatsby][gatsby], [redwoodjs][styled], [tailwind][tailwind], [nextjs][nextjs]
+💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled],
 
 #### 🙋‍♂️ [Work with me?][email]  
 
@@ -19,10 +19,11 @@
 [calendly]: https://calendly.com/cs-ellis
 [blaudio]: https://github.com/csellis/blaudio
 [blaudiovids]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf50_gDmsDtdMD7zfkm6S_EC
+[meteor]: https://www.meteor.com/
 
 <!-- [banner]: https://github.com/csellis/csellis/blob/master/bg.png
  -->
- [banner]: https://github.com/csellis/css-in-readme-like-wat/blob/master/header.svg
+[banner]: https://github.com/csellis/css-in-readme-like-wat/blob/master/header.svg
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
 [styled]: https://styled-components.com
