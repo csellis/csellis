@@ -3,9 +3,9 @@
 ### professional software developer & contractor
 
 ✍️ writing @ [chrisellis.dev][website]  
-🌱 building & growing [Meet on V][meetonv]
-💼 making awesome B2B apps at [CAE Web][cae]
-💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled]
+🌱 building & growing [Meet on V][meetonv]  
+💼 making awesome B2B apps at [CAE Web][cae]  
+💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled]  
 
 #### 🙋‍♂️ [Work with me?][email]  
 
