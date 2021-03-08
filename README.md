@@ -4,7 +4,7 @@
 
 ✍️ writing @ [chrisellis.dev][website]  
 🌱 building & growing [Meet on V][meetonv]  
-💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled],
+💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled]
 
 #### 🙋‍♂️ [Work with me?][email]  
 
