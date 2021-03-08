@@ -3,12 +3,13 @@
 ### professional software developer & contractor
 
 ✍️ writing @ [chrisellis.dev][website]  
-🌱 building & growing [Meet on V][meetonv]  
+🌱 building & growing [Meet on V][meetonv]
+💼 making awesome B2B apps at [CAE Web][cae]
 💜 loving [react][react], [meteor][meteor], [nextjs][nextjs], [tailwind][tailwind], [gatsby][gatsby], [redwoodjs][styled]
 
 #### 🙋‍♂️ [Work with me?][email]  
 
-
+[cae]: https://caewebdevelopment.com
 [brad]: https://github.com/bradgarropy
 [grocery]: https://github.com/csellis/grocery
 [redwdoodseries]: https://www.youtube.com/playlist?list=PLhL9OUB3wAf5zJCP93ygSOJJyhJRnS7zL
